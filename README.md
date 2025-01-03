@@ -10,7 +10,7 @@
 ## License 🧑‍⚖️
 This project is using the GPL3 (GNU General Public License 3) that is availble on LICENSE.md
 
-## Advanteges of using the modpack 😉
+## Advantages of using the modpack 😉
 1. It gets you more performance because it has mods like Sodium, Very Many Players, Debugify, Modern Fix etc.
 2. You can put shaders on it quickly because of the Iris Shaders Mod.
 3. No more need to have a server to have an SMP because of the Essential Mod.
